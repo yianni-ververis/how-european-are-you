@@ -7,13 +7,13 @@
  */
 var me = {
 	config: {
-		id: '82f1b03c-cde2-4c91-8bb3-c8b5f0343860',
-		host: 'sense-demo.qlik.com',
-		prefix: "/",
+		id: '82f1b03c-cde2-4c91-8bb3-c8b5f0343860', 
+		host: 'demos.qlik.com',
+		prefix: "/euro/",
 		port: 443,
 		isSecure: true
 	},
-	baseurl: 'https://sense-demo.qlik.com/resources'
+	baseurl: 'https://demos.qlik.com/resources'
 };
 
 require.config({
